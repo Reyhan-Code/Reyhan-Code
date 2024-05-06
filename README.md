@@ -10,7 +10,6 @@ Saya seorang **Mahasiswa** di Universitas Islam Lamongan.<br>
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun Sosial ku ya.
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reyhan-afif-fahri-7b4072220/) <br>
 
