@@ -12,7 +12,6 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun Sosial ku ya.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reyhan-afif-fahri-7b4072220/) <br>
 
 ### Github Statistic
-
 <p align="left">
 <a href="https://github.com/Reyhan-Code">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Reyhan-Code&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
