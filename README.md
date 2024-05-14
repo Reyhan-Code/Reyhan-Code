@@ -5,7 +5,6 @@
 </h1>
 
 Perkenalkan nama saya **Reyhan Afif Fahri**.<br>
-
 Saya seorang **Mahasiswa** di Universitas Islam Lamongan.<br>
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun Sosial ku ya.
 
