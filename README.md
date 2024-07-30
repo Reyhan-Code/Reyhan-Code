@@ -10,6 +10,10 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun Sosial ku ya.
 
 Every day absent on GIthub
 
+<h1 align="center">
+<img src="https://media.giphy.com/media/11lxCeKo6cHkJy/giphy.gif" width="150">
+</h1>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reyhan-afif-fahri-7b4072220/) <br>
 
